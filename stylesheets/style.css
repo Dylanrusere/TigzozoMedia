@@ -538,7 +538,7 @@ nav {
 
     .img_1{
         height: 450px;
-        background-image: url(../assets/images/1.png);
+        background-image: url(../assets/images/1.webp);
         background-position: center;
         background-size: cover;
 
@@ -549,7 +549,7 @@ nav {
 
     .img_2{
         height: 450px;
-        background-image: url(../assets/images/2.png);
+        background-image: url(../assets/images/2.webp);
         background-position: center;
         background-size: cover;
 
@@ -560,7 +560,7 @@ nav {
 
     .img_3{
         height: 450px;
-        background-image: url(../assets/images/3.png);
+        background-image: url(../assets/images/3.webp);
         background-position: center;
         background-size: cover;
 
@@ -571,7 +571,7 @@ nav {
 
     .img_4{
         height: 450px;
-        background-image: url(../assets/images/4.png);
+        background-image: url(../assets/images/4.webp);
         background-position: center;
         background-size: cover;
 
@@ -699,14 +699,14 @@ nav {
 }
 
 .first_image_about{
-    background-image: url(../assets/images/5.png);
+    background-image: url(../assets/images/5.webp);
     background-position: center;
     background-size: cover;
 }
 
 .second_image_about{
     margin-top: 10%;
-    background-image: url(../assets/images/6.png);
+    background-image: url(../assets/images/6.webp);
     background-position: center;
     background-size: cover;
 
@@ -754,7 +754,7 @@ nav {
 }
 
 .service_1{
-    background-image: url(../assets/images/7.png);
+    background-image: url(../assets/images/7.webp);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -763,7 +763,7 @@ nav {
 }
 
 .service_2{
-    background-image: url(../assets/images/2.png);
+    background-image: url(../assets/images/2.webp);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -776,7 +776,7 @@ nav {
 }
 
 .service_3{
-    background-image: url(../assets/images/8.png);
+    background-image: url(../assets/images/8.webp);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -998,7 +998,7 @@ nav {
 .instagram_pic_1{
     width: 100%;
     height: 300px;
-    background-image: url(../assets/images/11.png);
+    background-image: url(../assets/images/11.webp);
     background-position: left;
     background-size: cover;
 
@@ -1018,7 +1018,7 @@ nav {
 .instagram_pic_2{
     width: 100%;
     height: 300px;
-    background-image: url(../assets/images/12.png);
+    background-image: url(../assets/images/12.webp);
     background-position: center;
     background-size: cover;
 
@@ -1030,7 +1030,7 @@ nav {
 .instagram_pic_3{
     width: 100%;
     height: 300px;
-    background-image: url(../assets/images/13.png);
+    background-image: url(../assets/images/13.webp);
     background-position: center;
     background-size: cover;
 
@@ -1047,7 +1047,7 @@ nav {
 .instagram_pic_4{
     width: 100%;
     height: 300px;
-    background-image: url(../assets/images/14.png);
+    background-image: url(../assets/images/14.webp);
     background-position: center;
     background-size: cover;
 
@@ -1064,7 +1064,7 @@ nav {
 .instagram_pic_5{
     width: 100%;
     height: 300px;
-    background-image: url(../assets/images/15.png);
+    background-image: url(../assets/images/15.webp);
     background-position: center;
     background-size: cover;
 
@@ -1076,7 +1076,7 @@ nav {
 .instagram_pic_6{
     width: 100%;
     height: 300px;
-    background-image: url(../assets/images/16.png);
+    background-image: url(../assets/images/16.webp);
     background-position: center;
     background-size: cover;
 
