@@ -541,10 +541,6 @@ nav {
         background-image: url(../assets/images/1.webp);
         background-position: center;
         background-size: cover;
-
-        @media(max-width:450px){
-            display: none;
-        }
     }
 
     .img_2{
