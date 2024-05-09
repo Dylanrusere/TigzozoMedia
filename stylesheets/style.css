@@ -348,10 +348,6 @@ nav {
     grid-template-columns: 0.6fr 1fr;
     padding: 0 1% 0 5%;
     gap: 2%;
-
-    @media(max-width:450px){
-        grid-template-columns: 1fr;
-    }
 }
 
 .hero_details{
@@ -405,10 +401,6 @@ nav {
     @media(max-width:815px){
         flex-direction: column;
     }
-
-    @media(max-width:450px){
-        flex-direction: row;
-    }
 }
 
 .discover_more{
@@ -436,10 +428,6 @@ nav {
 
     @media(max-width: 815px){
         margin-left: 0%;
-    }
-
-    @media(max-width: 450px){
-        margin-left: 5%;
     }
 }
 
