@@ -974,6 +974,10 @@ nav {
 .instagram_head{
     text-align: center;
     font-size: 20px;
+
+    span{
+        font-family: "Alex Brush", cursive;
+    }
 }
 
 .instagram_pictures{
