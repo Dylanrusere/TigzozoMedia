@@ -1220,6 +1220,13 @@ nav {
     }
 }
 
+.phone_footer{
+    margin-left: 2%;
+}
+
+.email_footer{
+    margin-left: 2%;
+}
 
 /* Light Theme */
 body.light {
