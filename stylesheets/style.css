@@ -1155,7 +1155,7 @@ nav {
 
 .row_footer{
     display: flex;
-    flex-direction: row;
+    align-items: center;
     margin-top: 5%;
 }
 
@@ -1226,6 +1226,10 @@ nav {
 
 .email_footer{
     margin-left: 2%;
+}
+
+.logos{
+    padding-top: 10%;
 }
 
 /* Light Theme */
